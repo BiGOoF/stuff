@@ -1,0 +1,69 @@
+h1
+{
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size: 36px;
+letter-spacing: 0px;
+word-spacing: 2px;
+color: #FF8C50;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+text-align: center;
+}
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: 400px;
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.active {
+  background-color: #ffed2b;
+  color: white;
+}
+ul
+{
+font-family: Tahoma, Geneva, sans-serif;
+font-size: 14px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #751807;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+body
+{
+background: #F2A75A;
+background: -moz-linear-gradient(left, #F2A75A 0%, #FFE163 100%, #C59237 100%);
+background: -webkit-linear-gradient(left, #F2A75A 0%, #FFE163 100%, #C59237 100%);
+background: linear-gradient(to right, #F2A75A 0%, #FFE163 100%, #C59237 100%);
+font-family: Tahoma, Geneva, sans-serif;
+font-size: 14px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #751807;
+font-weight: 400;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
